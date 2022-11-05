@@ -7,3 +7,7 @@ This program uses Tkinter framework and Pillow library to progressively analyze 
 Code in Place link: https://compedu.stanford.edu/codeinplace/public/projects/0957.html
 
 YouTube link: https://youtu.be/XIlssQR4Pec
+
+<p align="center">
+<img width=71% alt="Screenshot 2022-11-05 at 7 07 55 PM" src="https://user-images.githubusercontent.com/104470779/200146843-fe5d953f-255e-4e73-af0a-ba0a99d710f7.png">
+<p/>
